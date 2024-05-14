@@ -698,8 +698,10 @@ class Runner(torch.nn.Module):
             'giraffes have long necks',
             'hippos are big and scary',
             'rhinos have horns',
+            'cat and dog play togather',
             'penguins live in the arctic',
-            'polar bears are white'
+            'polar bears are white',
+            'my cat is playable'
         ])
 
         tokenized_and_padded_training_data = tokenize_and_pad_training_data(max_sequence_length, tokenizer, training_data)
