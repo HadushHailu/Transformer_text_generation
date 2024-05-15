@@ -17,11 +17,13 @@ https://docs.google.com/presentation/d/1SMIPGRmEDviatPP2Ed3YJ6HzI-OxlFLTFGcLW6wB
 
 ## References
 
-https://arxiv.org/abs/1706.03762 
-https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks 
-https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
-http://jalammar.github.io/illustrated-transformer/
-https://medium.com/analytics-vidhya/encoders-decoders-sequence-to-sequence-architecture-5644efbb3392
-https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-https://wingedsheep.com/building-a-language-model/
+1. https://arxiv.org/abs/1706.03762 
+2. https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks 
+3. https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+4. http://jalammar.github.io/illustrated-transformer/
+5. https://medium.com/analytics-vidhya/encoders-decoders-sequence-to-sequence-architecture-5644efbb3392
+6. https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+7. https://wingedsheep.com/building-a-language-model/
+
+
 
